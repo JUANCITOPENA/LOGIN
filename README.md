@@ -13,3 +13,7 @@ Login Validado con Javascript Prueba con Enlace a Power Bi Consultas de Pedidos.
 ## Captura # 2:
 
 ![](imagenes/LOGIN_PANTALLA_DESK.png)
+
+## Captura # 2:
+
+![](imagenes/PEDIDOS.png)

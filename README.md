@@ -6,6 +6,10 @@ Login Validado con Javascript Prueba con Enlace a Power Bi Consultas de Pedidos.
 
 ## VER PEDIDOS: DEL G001 AL G033
 
-## Captura # 3:
+## Captura # 1:
 
 ![](imagenes/LOGIN_PANTALLA_MOVIL.png)
+
+## Captura # 2:
+
+![](imagenes/LOGIN_PANTALLA_DESK.png)
